@@ -22,7 +22,7 @@ I have done the first one for you, as an example.
 
 I watched the following videos for general information about asymptotic notation:
 
-https://www.youtube.com/watch?v=0oDAlMwTrLo
+https://www.youtube.com/watch?v=0oDAlMwTrLo  
 https://www.youtube.com/watch?v=BgLTDT03QtU
 
 And the following video specifically about asymptotic comparisons:
